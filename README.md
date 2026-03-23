@@ -1,11 +1,11 @@
 <div align="left">
-<a href="mailto:chyrupesh828@gmail.com">
+<a href="mailto:sudipgautam003@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
 </a>
-<a href="https://www.linkedin.com/in/rupesh-chaudhary-54a519261">
+<a href="https://www.linkedin.com/in/sudip-gtm">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
 </a>
-<a href="https://github.com/Rupe88">
+<a href="https://github.com/SudipGtm003">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28"/>
 </a>
 </div>
@@ -13,7 +13,7 @@
 <div align="left">
   
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Rupe88&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=SudipGtm003&color=blueviolet&style=for-the-badge)
 </div>
 
 <div align="left">  
